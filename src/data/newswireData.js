@@ -3,7 +3,7 @@ export const data = [
         pic: "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/4ka34495o11k2a/433d974387f12c6a8cbbeae3f98f94f4d62cbba5.jpg",
         title: "GTA Online",
         release_date: "January 27,2022",
-        description: "Your Chariot Has Arrived:The Declasse Granger 3600LX,<br/>Available Now"
+        description: `Your Chariot Has Arrived:The Declasse Granger 3600LX,Available Now`
     },
     {
         pic: "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/ak7k77927798k7/be138ee0d713d606232182e0944ddfead44f8570.jpg",
