@@ -1,0 +1,16 @@
+.container{
+    text-align: center;
+    padding: 1%;
+    cursor: pointer;
+    background: rgb(147,151,181);
+    background: -moz-linear-gradient(90deg, rgba(147,151,181,1) 25%, rgba(196,144,174,1) 50%, rgba(227,171,162,1) 75%);
+    background: -webkit-linear-gradient(90deg, rgba(147,151,181,1) 25%, rgba(196,144,174,1) 50%, rgba(227,171,162,1) 75%);
+    background: linear-gradient(90deg, rgba(147,151,181,1) 25%, rgba(196,144,174,1) 50%, rgba(227,171,162,1) 75%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#9397b5",endColorstr="#e3aba2",GradientType=1);
+}
+.container > div{
+    color: white;
+    font-weight: bold;
+    letter-spacing: 0.4ch;
+    font-size: 16px;
+}

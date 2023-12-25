@@ -5,10 +5,12 @@ import FeaturedGames from './components/FeaturedGames';
 import Footer from './components/Footer';
 import NavBar from './components/Navbar';
 import Newswire from './components/Newswire';
+import TopBanner from './components/TopBanner';
 
 function App() {
   return (
     <div className="App">
+      <TopBanner/>
       <NavBar />
       <Crousal/>
       <Newswire />

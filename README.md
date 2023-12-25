@@ -2,9 +2,11 @@
 ---
 ## Running the app
 
-To run the deployed app, visit https://rockstar-games-2803.netlify.app/
+## To run the deployed app, visit 
+# Netlify - https://rockstar-games-2803.netlify.app/
+# Vercel  - https://rockstar-games-ashutosh2803.vercel.app/
 
-To run the app locally, 
+## To run the app locally, 
 
 1.  download the repository in your pc locally.
 2.  run these commands
